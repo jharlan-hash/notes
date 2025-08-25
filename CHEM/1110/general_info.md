@@ -1,8 +1,22 @@
 ## LAB TIME - 1513
-#### Homework is due the next business day after the module is covered
-## SI (supplemental instruction)
+### Grading
+No competition and no curves
+* Discussion
+	* 112 points available
+	* 105 max
+* Homework
+	* 208 points available
+	* 195 max
+* iClicker
+	* 10 bonus points
+##### Policies
+* Submit late assignments up to 10 days after the due date 
+* 10% penalty on unanswered questions per day
+* Homework is due the next business day
+* Many bonus point opportunities
+### SI (supplemental instruction)
 in the ARC **(DO THIS)**
-#### Hours/Availability
+### Hours/Availability
 ##### LA (learning assistants)
 only during lectures
 
